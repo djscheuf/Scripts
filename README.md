@@ -7,3 +7,8 @@ At presently, I am doing my best to redact company specific information from the
 As a result some configuration files will be missing. I hope to later provide an empty config file as appropriate.
 
 Until then, Good hunting!
+
+##Contents
+- [Batch Files](/_bat/Bat.md)
+- [Executables](/_exe/Exe.md)
+- [Powershell](/_ps/Ps.md)
