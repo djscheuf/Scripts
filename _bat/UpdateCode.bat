@@ -2,7 +2,7 @@
 :: Call UpdateCode.ps1 to parse default .csv
 @echo off
 
-cd ..\_ps
+cd %Scripts%\_ps
 powershell .\UpdateCode.ps1
 
 pause

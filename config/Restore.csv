@@ -1,0 +1,3 @@
+Display,Destination,Source
+Avatar,C:\ProgramData\Microsoft\User Account Pictures\user.bmp,..\rsr\avatar.bmp
+Logout Screen,C:\Windows\System32\oobe\info\backgrounds\backgroundDefault.jpg,..\rsr\lockscreen.jpg

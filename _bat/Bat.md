@@ -2,12 +2,17 @@
 
 ##[EnvironVars](/_bat/EnvironVars.bat)
 One-time script to setup some basic environment Variables on Windows
+- Sets up PathtoIDE which points to the TFS.exe location
+- Also Setsup Scripts which points to where this repo is kept on disk.
 
 ##[RunCCleaner](/_bat/RunCCleaner.bat)
 A Simple script to run CCleaner with soem default options. Currently the path to CCleaner.exe is hard-coded.
 
 ##[UpdateCode](/_bat/UpdateCode.bat)
 A simple wrapper for the [UpdateCode.ps1](/_ps/UpdateCode.ps1) powerhsell script. Out of necessity it changes the current command directory to allow the powershell script to run.
+
+##[RestorePers](/_bat/RestorePers.bat)
+A simple wrapper for the [RestorePersonalization.ps1](/_ps/RestorePersonalization.ps1) powerhsell script. Out of necessity it changes the current command directory to allow the powershell script to run.
 
 ##[WifiOn](/_bat/WifiOn.bat) and [WifiOff](/_bat/WifiOff.bat)
 Two _'dumb'_ toggles for the Wifi. I didn't want to have to navigate the Windows menus to manually turn on or off the wifi-card. So I wrote a script.
