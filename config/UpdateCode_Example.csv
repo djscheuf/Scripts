@@ -1,0 +1,3 @@
+Name,Local,TFS
+Project Name,C:\_Source\Path\To\Project,TFS\Path\To\Project
+Displayed in Cmd Interface,C:\Local\Project\Directory,TFS\SourceControl\Project\Directory
